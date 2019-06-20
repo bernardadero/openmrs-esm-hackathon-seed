@@ -4,7 +4,7 @@ const CleanWebpackPlugin = require("clean-webpack-plugin").CleanWebpackPlugin;
 module.exports = {
   entry: path.resolve(__dirname, "src/hackathon-seed.tsx"),
   output: {
-    filename: "hackathon/patient-weight-graph-seed.js",
+    filename: "patient-weight-graph.js",
     libraryTarget: "system",
     path: path.resolve(__dirname, "dist")
   },
