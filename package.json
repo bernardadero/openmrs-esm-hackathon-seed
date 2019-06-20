@@ -57,10 +57,13 @@
     "@testing-library/react": "^8.0.1",
     "@types/react": "^16.8.19",
     "@types/react-dom": "^16.8.4",
+    "dayjs": "^1.8.14",
     "react": "^16.8.6",
+    "react-dayjs": "^0.1.5",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
+    "recharts": "^1.6.2",
     "single-spa-react": "^2.10.2"
   }
 }
